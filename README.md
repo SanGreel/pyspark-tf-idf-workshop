@@ -1,5 +1,6 @@
-### pyspark-tf-idf-workshop
+### PySpark TF-IDF workshop
 
+-----
 
 #### Preparation process
 1. Download&Install Anaconda Python 3.7 version.
