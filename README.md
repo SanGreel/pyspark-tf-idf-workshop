@@ -6,6 +6,7 @@
 https://www.anaconda.com/distribution/
 
 2. Install pyspark.
+You can follow this instructions - https://github.com/yajieli912/Spark_PySpark.
 
 3. Run pyspark_check.ipynb. If it worked without erros, congrats.
 
